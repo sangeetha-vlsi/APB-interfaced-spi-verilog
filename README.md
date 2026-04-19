@@ -1,15 +1,15 @@
 
-## 📌 Overview
+ Overview
 Designed and implemented an APB interfaced SPI protocol controller in Verilog supporting configurable SPI modes (CPOL/CPHA).
 
-## 🚀 Features
+ Features
 - APB Slave Interface
 - SPI Master Communication
 - Configurable SPI modes
 - Baud rate generator
 - Full-duplex data transfer
 
-## 🧠 Modules
+ Modules
 - Baud Generator
 - APB Interface
 - SPI FSM
@@ -17,15 +17,15 @@ Designed and implemented an APB interfaced SPI protocol controller in Verilog su
 - Shift Register
 - Slave Select Logic
 
-## 📊 Simulation Result
+ Simulation Result
 The design was verified using simulation waveforms demonstrating correct APB transactions and SPI communication.
 
-## 📷 Waveforms
+ Waveforms
 ![Waveform](docs/waveform2.png)
 
-## 🛠 Tools Used
-- Verilog HDL
+Tools Used
 - Xilinx ISE Simulator
+  
 
-## 👨‍💻 Author
+Author
 Sangeetha Krishnakumar
